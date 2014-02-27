@@ -17,7 +17,7 @@
 LEWIS_QUOTES = [
   "All I wanted to do, was play my guitar and sing",
   "Is this the 50's, or 1999?",
-  "Tell me, doctor, where are we going this time",
+  "Tell me, doctor, where are we going this time?",
   "Don't bet your future, on one roll of the dice",
   "Better remember, lightning never strikes twice",
   "Please don't drive eighty eight, don't wanna be late again",
