@@ -8,8 +8,7 @@
 #   "xml2js": "0.1.14"
 #
 # Commands:
-#   hubot cat me -  Reply with cat
-#   cat me - Reply with cat
+#   hubot cat me -  Reply with weird cat gif from thecatapi.com
 
 
 xml2js = require "xml2js"
